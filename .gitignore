@@ -1,0 +1,6 @@
+.terraform.tfstate
+.terraform.tfstate.backup
+.*terraform
+.*ters3.tf
+.*terraform.tfstate
+.*terraform.tfstate.backup
